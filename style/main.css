@@ -169,22 +169,3 @@ header .titulo-aba{
     justify-content: center;
     align-items: flex-start;
 }
-
-.botao-assistir{
-    color: white;
-}
-
-/*aba documentarios*/
-
-.filme-principal-aba-documentarios{
-    font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%), url("/img/naruto-shippudem-fundo.jpg");
-    
-    height: 400px;
-    background-size: cover;
-
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: flex-start;
-}
